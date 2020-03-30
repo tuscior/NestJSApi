@@ -1,0 +1,16 @@
+Przy trybie full stack fajnie jakbyś jeszcze przygotował takie proste API w Nodejs, spelniajace zalozenia:
+
+rejestracja + logowanie uzytkownika (JWT), login, imie, nazwisko + haslo
+endpoint na wyswietlenie informacji o uzytkowniku
+endpoint na zmiane hasla/danych uzytkownika
+endpoint na upload avatara/pliku
+endpoint z listą produktów w sklepie, dodawanie, edycja, usuwanie produktow
+endpoint z koszykiem użytkownika, dodawanie, edycja, usuwanie produktow z koszyka
+
++ 2 testy jednostkowe, dowolne np. na dodawanie/edycje produktow. 
+
+
+ZDOCKERYZOWAC APKE;
+Image UPLOAD NA AWS/GOOGLE CLOUD;
+DODAC ENV FILE + gdzie host
+DODAWAC CI/CD ?
